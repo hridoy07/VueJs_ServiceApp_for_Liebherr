@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    background: #fdc400;
+    color: white;
+  }
+  
+  #chatbox {
+    height: 200px;
+    max-width: 400px;
+    overflow-y: scroll;
+    
+  }
